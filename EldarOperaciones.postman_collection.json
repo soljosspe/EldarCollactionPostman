@@ -1,0 +1,73 @@
+{
+	"info": {
+		"_postman_id": "d3ab2117-8536-4b83-8681-77422bf73aea",
+		"name": "EldarOperaciones",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20726785"
+	},
+	"item": [
+		{
+			"name": "localhost:9091/eldar_operaciones/tarjeta/tasa/nara",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:9091/eldar_operaciones/tarjeta/tasa/nara",
+					"host": [
+						"localhost"
+					],
+					"port": "9091",
+					"path": [
+						"eldar_operaciones",
+						"tarjeta",
+						"tasa",
+						"nara"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:9091/eldar_operaciones/tarjeta/tasa/visa",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:9091/eldar_operaciones/tarjeta/tasa/visa",
+					"host": [
+						"localhost"
+					],
+					"port": "9091",
+					"path": [
+						"eldar_operaciones",
+						"tarjeta",
+						"tasa",
+						"visa"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:9091/eldar_operaciones/tarjeta/tasa/amex",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:9091/eldar_operaciones/tarjeta/tasa/amex",
+					"host": [
+						"localhost"
+					],
+					"port": "9091",
+					"path": [
+						"eldar_operaciones",
+						"tarjeta",
+						"tasa",
+						"amex"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
